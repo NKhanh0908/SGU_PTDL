@@ -36,3 +36,11 @@ Nghiên cứu này bắt đầu bằng việc phân tích bộ dữ liệu Bitly
 + Hiểu hành vi người dùng khi truy cập các trang chính phủ Mỹ (địa lý, thời gian, thiết bị);
 + Xác định phân bố người dùng theo múi giờ, hệ điều hành, quốc gia;
 + Quy trình phân tích dữ liệu JSON thực tế bằng Python/pandas: đọc – làm sạch – tổng hợp – trực quan hóa.
+
+### [II. MovieLens 1M Dataset](/baitapnhom/Lab2/code/ch13_2.ipynb)
+#### Giới thiệu
+- **GroupLens Research** cung cấp một số bộ dữ liệu đánh giá phim được thu thập từ người dùng MovieLens vào cuối những năm 1990 và đầu những năm 2000. Dữ liệu này bao gồm:
+    - **Đánh giá phim**
+    - **Thông tin phim (thể loại và năm sản xuất)**
+    - **Dữ liệu nhân khẩu học của người dùng (tuổi, mã ZIP, giới tính, nghề nghiệp)**
+- Những dữ liệu như thế này thường được sử dụng trong phát triển hệ thống gợi ý (recommendation systems) dựa trên các thuật toán học máy.
